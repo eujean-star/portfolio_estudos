@@ -2,7 +2,7 @@
 
 
 
-# CDbio
+# CDBio
 <sun> *Ciência de dados e bioinformática.*
 
 O propósito desse repositório é documentar as aplicações do que venho aprendendo, estudos relacionadas à aprendizado de máquinas e bioinformática.
