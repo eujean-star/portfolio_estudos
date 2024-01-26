@@ -5,8 +5,8 @@
 # CDBio
 <sun> *Ciência de dados e bioinformática.*
 
-O propósito desse repositório é documentar as aplicações do que venho aprendendo, estudos relacionadas à aprendizado de máquinas e bioinformática.
-O objetivo maior é que eu consiga ajudar, de alguma maneira, colegas dentro da biotecnologia e pessoas interessadas em bioinformática.
+O propósito desse repositório é documentar as aplicações do que venho aprendendo, estudos relacionadas à aprendizagem de máquinas e bioinformática.
+O objetivo maior é que eu consiga ajudar, de alguma maneira, colegas dentro da biotecnologia e pessoas interessadas em bioinformática ou aprendigem de máquinas.
 
 Espero que ajude.
 
